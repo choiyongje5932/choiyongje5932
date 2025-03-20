@@ -12,7 +12,7 @@
 
 ### 통계 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmett6401&show_icons=true&theme=radical)
 
-### 웹싸이트의 그림 가져 오기 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" width="40" height="40" />
+### 웹싸이트의 그림 가져 오기 <img src="[https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg](https://search.naver.com/search.naver?ssc=tab.image.all&where=image&sm=tab_jum&query=%EA%B0%95%EC%95%84%EC%A7%80+%EC%82%AC%EC%A7%84#imgId=image_sas%3Ablog_7c65ad5dbe891731c16a24d57e9ee0c0)" width="40" height="40" />
 ![image](https://github.com/user-attachments/assets/3eea23d7-9cba-4c05-8ad1-0c459f6b7f42)
 
 
